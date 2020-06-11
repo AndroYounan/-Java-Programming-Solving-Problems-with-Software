@@ -1,4 +1,4 @@
-# Java Programming_Solving Problems with Software
+# Java Programming : Solving Problems with Software
 
 This ia a 4-weeks course offered by [Duke University](https://duke.edu/) on [Coursera](https://www.coursera.org/)\
 I took this course because it is part of the [Object Oriented Programming in Java Specialization](https://www.coursera.org/specializations/object-oriented-programming)\
